@@ -25,7 +25,7 @@ class User:
 
         # Data tabel yang diputar agar sesuai tampilan yang diinginkan
         data = [
-            [False, False, False, "Bisa Stream"],
+            [True, True, True, "Bisa Stream"],
             [True, True, True, "Bisa Download"],
             [True, True, True, "Kualitas SD"],
             [False, True, True, "Kualitas HD"],
