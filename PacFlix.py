@@ -26,7 +26,7 @@ class User:
             ["3rd party Movie only", "Basic Plan Content + Sports", "Basic Plan + Standard Plan + PacFlix Original Series", "Jenis Konten"],
             [120_000, 160_000, 200_000, "Harga"]
         ]
-s
+
         headers = ["Basic Plan", "Standard Plan", "Premium Plan", "Services"]
         print("PacFlix Plan List")
         print("")
