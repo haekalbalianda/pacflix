@@ -22,7 +22,7 @@ ________________________________________
 User PacFlix hanya bisa memilih salah satu dari tiga plan yang tersedia. Tetapi user hanya bisa melakukan upgrade plan dari yang tersedia dan tidak bisa melakukan downgrade plan. Contoh: Antono saat ini sudah berlangganan Standard Plan, dia bisa upgrade ke Premium Plan tetapi tidak bisa downgrade ke Basic Plan.
 Lalu ada ketentuan lain, jika existing user sudah berlangganan lebih dari 12 bulan dan user ingin upgrade dari plan yang sekarang, bisa mendapatkan diskon 5%. Semisal Budi sudah berlangganan di PacFlix selama 15 bulan di Basic Plan, ternyata dia ingin upgrade ke Standard Plan maka Budi berhak mendapatkan diskon 5% di pembayarannya nanti
 Selain itu, di PacFlix terdapat sistem referral code tetapi hanya untuk new user saja. Jadi, ketika new user yang ingin berlangganan dan mau melakukan pembayaran memasukkan referral code, maka akan mendapatkan diskon sekitar 4%. Tetapi perlu diperhatikan kalau akun valid mendapatkan diskon jika referral code memang ada di database PacFlix.
-Kita sebagai Programmer akan membuat simple program untuk PacFlix ini! Pada Live class nanti kita akan coba menyelesaikan problem ini secara bersama – sama. Jika teman – teman ingin mencoba mengerjakan terlebih dahulu atau mau membuat requirement dokumen nya terlebih dahulu diperbolehkan bahkan disarankan!!
+
 Selain itu juga diharapkan sudah menginstall Anaconda dan Git. Untuk mempermudah flow pengerjaan case, maka case ini akan dikerjakan di local masing – masing.
 ________________________________________
 Requirements Technical Skill:
